@@ -21,5 +21,5 @@ I’m a CS student (1st year in Poland, 3rd year in Ukraine), building my IT ski
 ---
 
 *This repo is part of my personal portfolio. More projects coming soon!*  
-*Цей репозиторій є частиною мого особистого портфоліо. Незабаром будуть додані нові проєкти!*
+*Цей репозиторій є частиною мого особистого портфоліо.*
 
