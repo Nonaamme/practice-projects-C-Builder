@@ -12,7 +12,7 @@ Different tasks, such as working with databases and calculations of formulas.
 
 ### About Me / Про мене
 
-I’m a CS student (University in Poland + Technical school in Ukraine), building my IT skills through practical work.  
+I’m a CS student (these projects were created during my first year of studies in UO and 3rd y in techniacl school), building my IT skills through practical work.  
 Я студент спеціальності «Комп’ютерні науки» (Університет в Польщі + Технікум в Україні), розвиваю навички в ІТ завдяки практичним завданням.
 
 
