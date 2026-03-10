@@ -16,7 +16,7 @@ I’m a CS student (these projects were created during my first year of studies 
 Я студент спеціальності «Комп’ютерні науки» (Університет в Польщі + Технікум в Україні), розвиваю навички в ІТ завдяки практичним завданням.
 
 
-### Report / Звіт (українською)
+### Report (in ukrainian) / Звіт (українською)
 
 - [DOCX Report](ЗВІТ_НП_ПЗ-22-1_БЄДІН.doc)
 - [PDF Report](ЗВІТ_НП_ПЗ-22-1_БЄДІН.pdf)
